@@ -1,0 +1,26 @@
+What it is:
+CoolMad's Cobblemon is a clientside modpack designed with optimization and QoL in mind.
+It has 2 versions, Advanced and Basic (Also referred to as A and B), with Advanced implementing new features, upgrading existing ones, and having more QoL. 
+Basic, on the other hand, is based around performance with minimal QoL, for weak PCs or stricter servers where not much is allowed.
+This modpack, as the name states, is based on Cobblemon, and so that mod is required on the server.
+Also note that this modpack is CLIENTSIDE-ONLY, and cannot be installed serverside. It will do little to nothing.
+
+Installation:
+If using the default Minecraft launcher, manually build the pack using the files in this Github.
+However, I suggest using a mod launcher such as Prism Launcher, which can allow you to automatically download from the Modrinth and Curseforge.
+
+For mod launchers:
+Open the launcher.
+Either use the built-in downloader and type "cm cobble" or "coolmad's cobblemon" or go to the Modrinth/Curseforge page, download the file, and import it into the launcher.
+Press play. Enjoy.
+
+Which location to download from:
+Preferrably, Modrinth. This is because Curseforge removes several mods, and the Github earns me nothing.
+As well as Modrinth just generally being the best option for these kind of things, unless it isn't hosted there.
+
+It can be found here:
+*Github Page:* **https://github.com/CoolMad10/CM-Cobblemon**
+*Modrinth Advanced Page:* **https://modrinth.com/modpack/cm-cobblemon**
+*Modrinth Basic Page:* **https://modrinth.com/modpack/cm-cobblemon-basic**
+*Curseforge Advanced Page:* **https://curseforge.com/minecraft/modpacks/cm-cobblemon**
+*Curseforge Basic Page:* **https://curseforge.com/minecraft/modpacks/cm-cobblemon-basic**
